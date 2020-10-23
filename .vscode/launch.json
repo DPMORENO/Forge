@@ -15,7 +15,7 @@
             "env":{
                 "FORGE_CLIENT_ID": "NDxNRr7Q1zVqBANwbtuMakZeeKq86Yfi",
                 "FORGE_CLIENT_SECRET": "4FeaFRjvGcN5RHGd",
-                "FORGE_CALLBACK_URL": "https://dpmoreno.github.io/Forge/"
+                "FORGE_CALLBACK_URL": "http://localhost:3000/api/forge/callback/oauth"
             }
         }
     ]
